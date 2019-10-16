@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="operr_driver">Operr Driver</string>
+    <string name="on_break">You are on the break</string>
+    <string name="time_remaining">Time left: %02d:%02d</string>
+    <string name="break_service_started">Break service started successfully</string>
+    <string name="break_service_already_started">Break service already started</string>
+    <string name="break_end">You break ended</string>
+    <string name="time_end">Time ended</string>
+</resources>
